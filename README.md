@@ -274,7 +274,7 @@ Connect Power BI to the MySQL database or use the prepared analytical views.
 
 ## 📊 Dashboard Preview
 
-![Blinkit Orders Analytics Dashboard](screenshots/dashboard_overview.pdf)
+> 📄 **Dashboard Preview:** [Open Full Dashboard PDF](screenshots/dashboard_overview.pdf)
 
 ---
 
